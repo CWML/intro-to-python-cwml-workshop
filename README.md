@@ -2,6 +2,8 @@
 
 This is the landing page for the Intro to Python workshop held by Yale's Cushing/Whitney Medical Library. If you have any questions about this class or the content, email medicaldata@yale.edu. 
 
+For a non-programming introduction to Python, read through these presentation slides [Getting Started with Python, a nonprogramming introduction](https://docs.google.com/presentation/d/1Nt3yiZDZkvLrpIgYPyO19tJ1j1D1gY87tThUu4G6dnk/edit?usp=sharing). 
+
 
 ### Running the Workshop Notebook in Google Colab
 
